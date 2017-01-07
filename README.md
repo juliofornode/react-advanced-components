@@ -1,4 +1,4 @@
-# React Speed Coding
+# React Advanced Components
 React App focused on performance
 
 ### General Tools Used in this project
